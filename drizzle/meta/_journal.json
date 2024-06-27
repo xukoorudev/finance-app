@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716982772958,
+      "tag": "0000_goofy_talisman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716984018666,
+      "tag": "0001_magical_daredevil",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717510406706,
+      "tag": "0002_yielding_arclight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1717698537168,
+      "tag": "0003_conscious_the_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1718043164732,
+      "tag": "0004_melodic_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1718043420313,
+      "tag": "0005_typical_black_tom",
+      "breakpoints": true
+    }
+  ]
+}
